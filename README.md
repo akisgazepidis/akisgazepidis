@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akisgazepidis
+- 👋 Hi, I’m Akis Gazepidis
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on the Data Science field
